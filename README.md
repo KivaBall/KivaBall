@@ -2,7 +2,7 @@
   
 # 🦊 It's a Fox! 🦊
 
-<img src="https://i.imgur.com/vIF8Zco.gif" style="width: 1000px; max-width: 100%; height: auto;" alt="Foxy!">
+<img src="https://i.imgur.com/vIF8Zco.gif" style="width: 750px; height: auto;" alt="Foxy!">
 
 She always brings a little joy when you're feeling bad
 
