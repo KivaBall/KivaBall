@@ -10,6 +10,4 @@ Don't despair, **everything will be fine!** 🌟
 
 ✨ _Keep smiling and let the fox brighten your day =)_ ✨
 
-<div style="color:rgb(255, 255, 255);">I use the white theme on GitHub 😎</div>
-
 </div>
